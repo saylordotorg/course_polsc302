@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC302: Contemporary Political Thought"
 --------------------------------------------------------------
 

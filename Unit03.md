@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Utilitarianism and Civil Disobedience** <span id="3"></span> 
 *In this unit, we will examine the philosophy of utilitarianism, or the
 belief that governments should undertake actions that maximize benefits

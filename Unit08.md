@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Libertarianism, Neoliberalism, and Neoconservativism** <span
 id="8"></span> 
 *In this unit, we will study the most prominent political ideologies of

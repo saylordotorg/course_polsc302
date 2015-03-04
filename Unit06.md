@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Fascism and Authoritarianism** <span id="6"></span> 
 *Fascism is most often associated with the post-World War I regimes of
 Germany, Italy, and Spain.  Fascism is typified by a combination of

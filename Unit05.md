@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Communism** <span id="5"></span> 
 *In this unit, we will examine the implementation and evolution of
 communism in Russia and China.  We will begin with Russia after World

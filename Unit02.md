@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC302: Contemporary Political Thought"
+course_description: "An introductory survey of major political theory from the 18th century to the present. Themes include governance, property ownership and redistribution, free enterprise, individual liberty, justice, and responsibility for the common welfare."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: 19th Century Conservatism and Social Welfare Theory** <span
 id="2"></span> 
 *This unit introduces the foundational theories for the conservative and
