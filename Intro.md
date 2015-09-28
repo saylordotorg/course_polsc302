@@ -127,3 +127,4 @@ night, subunit 1.2 (2.5 hours) on Tuesday night, and so forth.
 - [Unit 7](https://legacy.saylor.org/polsc302/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc302/Unit08/)
 - [Unit 9](https://legacy.saylor.org/polsc302/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC302/POLSC302-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC302/POLSC302-FinalExam-Answers.html)
