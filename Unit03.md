@@ -36,7 +36,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wofford College: Charles D. Kay’s “Notes on
     Utilitarianism”**
     Link: Wofford College: Charles D. Kay’s “[Notes on
-    Utilitarianism](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc302-3.1-Reading-CharlesDKay.pdf)”
+    Utilitarianism](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc302-3.1-Reading-CharlesDKay.pdf)”
     (PDF)  
         
      Instructions: Read this article for an overview of utilitarian
@@ -212,12 +212,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Civil Disobedience and Civil
     Rights”**
     Link: The Saylor Foundation’s “[Civil Disobedience and Civil
-    Rights](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC302.Civil-Disobedience-and-Civil-Rights-Assessment.FINAL_.pdf)”
+    Rights](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC302.Civil-Disobedience-and-Civil-Rights-Assessment.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the “[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/01/POLSC302.Civil-Disobedience-and-Civil-Rights.Guide-to-Responding.FINAL_.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC302.Civil-Disobedience-and-Civil-Rights.Guide-to-Responding.FINAL_.pdf)”
     (PDF).
 
 
