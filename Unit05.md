@@ -263,12 +263,12 @@ id="5.3"></span> 
 -   **Assessment: The Saylor Foundation’s “U.S. Foreign Policy and the
     Cold War”**
     Link: The Saylor Foundation’s “[U.S. Foreign Policy and the Cold
-    War](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC302.U.S.-Foreign-Policy-and-the-Cold-War-Assessment.FINAL_.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC302.U.S.-Foreign-Policy-and-the-Cold-War-Assessment.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the [Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC302.U.S.-Foreign-Policy-and-the-Cold-War.Guide-to-Responding.FINAL_.pdf)
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/POLSC302.U.S.-Foreign-Policy-and-the-Cold-War.Guide-to-Responding.FINAL_.pdf)
     (PDF).
 
 
