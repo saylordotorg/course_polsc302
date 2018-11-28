@@ -237,12 +237,12 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Political Ideologies: A
     Comparison”**
     Link: The Saylor Foundation’s “[Political Ideologies: A
-    Comparison](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC302.Political-Ideologies-A-Comparison-Assessment.FINAL_.pdf)”
+    Comparison](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/POLSC302.Political-Ideologies-A-Comparison-Assessment.FINAL_.pdf)”
     (PDF)  
       
      Instructions: Please complete the entire assessment.  You can check
     your answers against the [Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/01/POLSC302.Political-Ideologies-A-Comparison.Answer-Key.FINAL_.pdf)
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/01/POLSC302.Political-Ideologies-A-Comparison.Answer-Key.FINAL_.pdf)
     (PDF).
 
 

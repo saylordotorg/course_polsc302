@@ -70,7 +70,7 @@ style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill San
  <span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 16px; line-height: 24px; text-align: left; -webkit-text-size-adjust: none; ">√ </span> 
  Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
  <span dir="LTR"><span
 style="color: rgb(85, 85, 85); font-family: 'Myriad Pro', 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif; font-size: 16px; line-height: 24px; text-align: left; -webkit-text-size-adjust: none; ">√
    </span>Have completed
